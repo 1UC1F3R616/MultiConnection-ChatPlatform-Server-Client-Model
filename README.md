@@ -1,8 +1,10 @@
-# MultiConnection-ChatPlatform-Server-Client-Model-
+# Chat Application with Sockets
 
 It is made synchronized using Semaphore and It automatically forwards any new message from other users, unlike many tutorials present where sync is not done properly.
 
-
+- [x] Written in Socket purely
+- [x] Multiple User Handling
+- [x] Sync
 - [ ] DataBase to store chat history
 - [ ] GUI
 
