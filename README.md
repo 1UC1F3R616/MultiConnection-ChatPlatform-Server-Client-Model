@@ -2,6 +2,7 @@
 
 It is made synchronized using Semaphore and It automatically forwards any new message from other users, unlike many tutorials present where sync is not done properly.
 
+- [x] TCP
 - [x] Written in Socket purely
 - [x] Multiple User Handling
 - [x] Sync
