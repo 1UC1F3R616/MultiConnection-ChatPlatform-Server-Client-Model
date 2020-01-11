@@ -1,6 +1,6 @@
 # Chat Application with Sockets
 
-It is made <s>synchronized</s> Lock using Semaphore and It automatically forwards any new message from other users, unlike many tutorials present where sync is not done properly.
+It is made synchronized using <s>Semaphore</s> Lock and It automatically forwards any new message from other users, unlike many tutorials present where sync is not done properly.
 
 *Protocol used is TCP*
 
