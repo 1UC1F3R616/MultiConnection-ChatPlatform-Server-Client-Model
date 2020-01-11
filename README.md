@@ -1,8 +1,12 @@
 # Chat Application with Sockets
 
-It is made synchronized using Semaphore and It automatically forwards any new message from other users, unlike many tutorials present where sync is not done properly.
+It is made <s>synchronized</s> Lock using Semaphore and It automatically forwards any new message from other users, unlike many tutorials present where sync is not done properly.
 
-- [x] TCP
+*Protocol used is TCP*
+
+![chatbot123](https://user-images.githubusercontent.com/41824020/72211182-fd9be500-34ec-11ea-99ca-c6e076bf99f4.png)
+
+
 - [x] Written in Socket purely
 - [x] Multiple User Handling
 - [x] Sync
