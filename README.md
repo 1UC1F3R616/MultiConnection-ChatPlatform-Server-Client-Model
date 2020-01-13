@@ -12,11 +12,12 @@ It is made synchronized using <s>Semaphore</s> Lock and It automatically forward
 - [x] Sync
 - [ ] DataBase to store chat history
 - [ ] GUI
-- [ ] Media Transfer
+- [x] Media Transfer
 - [ ] Multi Threaded
-- [ ] Command Execution Script Addition, Showing Functionalities
+- [ ] Command Execution Script Addition, Showing Functionalitie
+- [ ] New Robust Architecture, Rethink and Redesign
 
-</br>
+</br >
 
 #### To connect from outside PC's change IP Address in Client with Server IP Address (Currently set to local)
 
