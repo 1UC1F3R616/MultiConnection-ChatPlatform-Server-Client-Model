@@ -14,7 +14,7 @@ It is made synchronized using <s>Semaphore</s> Lock and It automatically forward
 - [ ] GUI
 - [x] Media Transfer
 - [ ] Multi Threaded
-- [ ] Command Execution Script Addition, Showing Functionalitie
+- [ ] Command Execution Script Addition, Showing Functionality
 - [ ] New Robust Architecture, Rethink and Redesign
 
 </br >
