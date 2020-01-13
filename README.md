@@ -12,6 +12,7 @@ It is made synchronized using <s>Semaphore</s> Lock and It automatically forward
 - [x] Sync
 - [ ] DataBase to store chat history
 - [ ] GUI
+- [ ] Image Transfer
 
 </br>
 
