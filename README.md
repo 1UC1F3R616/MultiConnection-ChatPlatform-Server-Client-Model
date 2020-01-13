@@ -13,6 +13,8 @@ It is made synchronized using <s>Semaphore</s> Lock and It automatically forward
 - [ ] DataBase to store chat history
 - [ ] GUI
 - [ ] Media Transfer
+- [ ] Multi Threaded
+- [ ] Command Execution Script Addition, Showing Functionalities
 
 </br>
 
